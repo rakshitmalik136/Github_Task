@@ -11,3 +11,7 @@ This project demonstrates Git best practices:
 2. Install dependencies
 3. Run project
 
+---
+# LINK FOR SCREENSHOTS
+[SCREENSHOTS](https://drive.google.com/drive/folders/1hIDhK9lk4Vo44SDwGFv8weAYE3wqLT4a?usp=sharing)
+
